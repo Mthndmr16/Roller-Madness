@@ -1,5 +1,5 @@
 # Roller Madness
- This is my first project. It's a small DEMO where we move a ball using the Rigidbody component. Enemy objects spawn at the specified locations in the scene and chase us. We get points by collecting gold coins. If we reach the specified score (15) and reach the specified time limit (30 sec) we move to the next level. If we hit obstacles, our score decreases by 1 and the color of the obstacles changes every time we hit them. 
+ This is my first project. It's a small DEMO where we move a ball using the Rigidbody component. Enemy objects are spawning at the specified locations in the scene and chase us. We get points by collecting gold coins. If we reach the specified score (15) and reach the specified time limit (30 sec) we move to the next level. If we hit obstacles, our score decreases by 1 and the color of the obstacles changes every time we hit them. 
 
 
 
